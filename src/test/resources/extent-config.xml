@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Google Search Reports - Cucumebr Report</documentTitle>
+        <reportName>Google search Reports</reportName>
+
+    </configuration>
+</extentreports>
